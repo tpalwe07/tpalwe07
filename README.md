@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpalwe07" alt="tpalwe07" /> </p> 
   
 ## Hi there 👋,           
-I'm a **Frontend Developer** at <a href="https://twitter.com/palwe_tejas" target="_blank" rel="noopener noreferrer">Worldline Global Services</a> with a passion for building responsive and dynamic user interfaces. 
+I'm a **Frontend Developer** at <a href="https://worldline.com/" target="_blank" rel="noopener noreferrer">Worldline Global Services</a> with a passion for building responsive and dynamic user interfaces. 
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
