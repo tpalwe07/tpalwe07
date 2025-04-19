@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpalwe07" alt="tpalwe07" /> </p> 
   
 ## Hi there 👋,           
-I'm a Frontend Developer at [Worldline Global Services](https://worldline.com/) with a passion for building responsive and dynamic user interfaces.  
+I'm a **Frontend Developer** at <a href="https://twitter.com/palwe_tejas" target="_blank" rel="noopener noreferrer">Worldline Global Services</a> with a passion for building responsive and dynamic user interfaces. 
+
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
 ### 💻 Tech Stack:
@@ -27,6 +28,7 @@ I'm a Frontend Developer at [Worldline Global Services](https://worldline.com/) 
 # Skills:
 
 **Languages**
+<p>
 <!-- React -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
 
@@ -46,8 +48,21 @@ I'm a Frontend Developer at [Worldline Global Services](https://worldline.com/) 
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
 
 <!-- Tailwind CSS -->
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
- 
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/> 
+
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+
+<!-- VS Code -->
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
+
+<!-- Vite -->
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="30"/>
+
+</p>
 
  # Stats:
  
