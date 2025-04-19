@@ -8,24 +8,45 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpalwe07" alt="tpalwe07" /> </p> 
   
 ## Hi there 👋,           
-#### I'm Tejas Anil Palwe, 21 year old student currently studying my UG course in DYPCOE, Akurdi, Pune in (last year) E&TC Engineering.  I am tech enthusiast, I am an Intermediate level Web Developer. Currently studying Front end Web Development. I believe I'm a Programmer with decent problem solving skills.  
-
+I'm a Frontend Developer at [Worldline Global Services](https://worldline.com/) with a passion for building responsive and dynamic user interfaces.  
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
-# Talking about Personal Stuffs:
+### 💻 Tech Stack:
+- ⚛️ React.js – Component-driven architecture, hooks, Redux, and performance optimization.
+- 🖼️ Vue.js – Composition API, Pinia, and building fast, modern SPAs.
+- 💅 SCSS, Tailwind CSS – Styling with precision and responsiveness.
+- 🌐 REST APIs, Axios – Fetching, handling, and visualizing data.
+- 🧰 Tools: Git, Vite, VS Code
 
-- 👨🏽‍💻 I’m currently working on **Web Developement and C++**
-- 🌱 I’m currently learning **Javascript**, **Java**, **React**
-- 👨‍💻 Some of my projects are available at my <a href="https://github.com/tpalwe07?tab=repositories">**Github**</a>
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: tejaspalwe6@gmail.com
-- 😄 Pronouns: Web Developer
-- ⚡ Website : <a target="_blank" href="https://tpalwe07.github.io/">Tejas Palwe</a>
+### 🚀 About Me:
+- 🔭 I enjoy building clean, interactive web apps with smooth UX.
+- 🧠 Always exploring new tech — currently diving deeper into TypeScript and state management patterns.
+- 🛠️ Strong believer in writing maintainable and scalable frontend code.
+- 💬 I love collaborating with designers and backend teams to bring ideas to life.
 
 # Skills:
 
 **Languages**
- * <img src ="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25> <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25> <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25> <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25> <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height=25> 
+<!-- React -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+
+<!-- Vue -->
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30"/>
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+
+<!-- HTML5 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+
+<!-- CSS3 -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+
+<!-- SCSS -->
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
+
+<!-- Tailwind CSS -->
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
  
 
  # Stats:
